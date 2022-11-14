@@ -1,0 +1,29 @@
+Name: Translations
+Type: FolderType
+Children:
+- Name: LocalizationDictionary1
+  Type: LocalizationDictionary
+  DataType: String
+  ValueRank: OneOrMoreDimensions
+  ArrayDimensions: [0,0]
+  Value: 
+   {
+    "Type": 12,
+    "Dimensions": [14,4],
+    "Body": [
+     "","en-US","it-IT","fr-FR",
+     "overload","overload","sovraccarico","surcharge",
+     "Acknowledge","Acknowledge","Riconoscimento","Acquittement",
+     "Acknowledge All","Acknowledge All","Riconosci tutti","Acquitter tout",
+     "Confirm","Confirm","Conferma","Confirmer",
+     "Confirm All","Confirm All","Conferma tutti","Confirmer tout",
+     "SourceName","Source Variable","Variabile sorgente","Variable source",
+     "Message","Message","Messaggio","Message",
+     "Name","Name","Nome","Nom",
+     "Active","Active","Attivo","Actif",
+     "Confirmed","Confirmed","Confermato","Confirmé",
+     "Acked","Acked","Riconosciuto","Acquitté",
+     "Timestamp","Timestamp","Timestamp","Horodatage",
+     "Severity","Severity","Gravità","Gravité"
+    ]
+   }
